@@ -1,0 +1,36 @@
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\bin\Debug\Wikipedia Standings.exe.config
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\bin\Debug\Wikipedia Standings.exe
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\bin\Debug\Wikipedia Standings.pdb
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\bin\Debug\Newtonsoft.Json.dll
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\bin\Debug\Newtonsoft.Json.xml
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\obj\Debug\Wikipedia Standings.csproj.AssemblyReference.cache
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\obj\Debug\Wikipedia_Standings.Form1.resources
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\obj\Debug\Wikipedia_Standings.Properties.Resources.resources
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\obj\Debug\Wikipedia Standings.csproj.GenerateResource.cache
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\obj\Debug\Wikipedia Standings.csproj.CoreCompileInputs.cache
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\obj\Debug\Wikipedia Standings.csproj.CopyComplete
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\obj\Debug\Wikipedia Standings.exe
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\obj\Debug\Wikipedia Standings.pdb
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\obj\Debug\Wikipedia_Standings.Form2.resources
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\bin\Debug\System.Buffers.dll
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\bin\Debug\System.Memory.dll
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\bin\Debug\System.Net.Http.Json.dll
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\bin\Debug\System.Text.Json.dll
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\bin\Debug\System.ValueTuple.dll
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\bin\Debug\System.Buffers.xml
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\bin\Debug\System.Memory.xml
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\bin\Debug\System.Net.Http.Json.xml
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\bin\Debug\System.Text.Json.xml
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\bin\Debug\System.ValueTuple.xml
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\obj\Debug\Wikipedia Standings.csproj.SuggestedBindingRedirects.cache
+C:\Users\R Fatih\Desktop\repos\Wikipedia Standings\Wikipedia Standings\obj\Debug\Wikipedia Standings.exe.config
